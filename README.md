@@ -29,8 +29,8 @@ This project demonstrates a production-ready containerized Blazor application us
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone [<repository-url>](https://github.com/Jnowakoski15/simple-dotnet-containerized)
+cd [<repository-name>](https://github.com/Jnowakoski15/simple-dotnet-containerized)
 ```
 
 2. Build the container using Podman:
